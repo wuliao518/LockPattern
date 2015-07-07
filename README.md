@@ -1,2 +1,3 @@
 #LockPartten
-¾Å¹¬¸ñ½âËødemo
+ä¹å®«æ ¼è§£é”demo
+[ç¤ºä¾‹å›¾](https://github.com/wuliao518/LockPattern/blob/master/art/20150707210023.png)
