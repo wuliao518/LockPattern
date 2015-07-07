@@ -22,7 +22,9 @@ public class LockPatternView extends View{
     private Point[][] points=new Point[3][3];
     private Bitmap pointNormal,pointPressed,pointError,linePressed,lineError;
     private Paint paint;
+    //半径
     private float r;
+    //手指所在位置
     private float x,y;
     private boolean isFinish=false;
     private boolean isChecked=false;
